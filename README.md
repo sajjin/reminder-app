@@ -1,6 +1,4 @@
-# reminder-app
-
-# Installation
+## Installation
 Use the package manager npm to install dependencies
 
 ```git clone https://github.com/jasleenlodhra/reminder-app.git```
@@ -8,11 +6,15 @@ Use the package manager npm to install dependencies
 In the terminal, run
  ```npm install```
 
-# Usage
+## Usage
+Install all dependencies
+
+```npm i```
+
 In the terminal, run 
 ```npm start```
 
-# Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue to discuss what you would like to change.
 
 Please make sure changes are made in their appropriate files:
@@ -23,5 +25,9 @@ Changes to reminder functions: reminder_controller.ejs; add corresponding app.ge
 
 Changes to page layouts: corresponding ejs file
 
-# License
+## License
+<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+[MIT](https://choosealicense.com/licenses/mit/)
+>>>>>>> 22e224419c3e05010631b578fccfe3cfe57ea48e
